@@ -11,3 +11,6 @@ print("%s is %d" % (name, age))
 
 myList = [1, 2, 3]
 print("A list: %s" % myList)
+
+myString = "Hello World!"
+print(len(myString))
